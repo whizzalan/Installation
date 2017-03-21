@@ -21,6 +21,6 @@ service httpd restart
 yum install lynx # default base repo
 lynx http://<hostname>/ambari
 ```
-
+![alt tag](ambari_web_directory.png)
 
 
